@@ -8,7 +8,7 @@
 # Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bankist-it.git
+   git clone https://github.com/Devulapally-MaheshBabu/bankist.git
 cd bankist-it
   # Usage
 - Log in securely using a valid username and PIN to access the banking dashboard.
