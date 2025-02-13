@@ -19,10 +19,10 @@ cd bankist-it
 - Real-time updates ensure your transaction history is dynamically reflected on the dashboard, providing an accurate financial summary.
   
 # Features
-Secure Authentication: Log in using a unique username and PIN.
-Transaction History: View all past transactions with clear deposit and credit indicators.
-Fund Transfers: Send money to other bank accounts with instant processing.
-Loan Processing: Request and receive loans instantly, subject to conditions.
-Account Management: Close your account safely if needed.
-Real-time Data Updates: Transaction history and balance updates happen dynamically.
-User-friendly Interface: Intuitive design with color-coded financial tracking for better clarity.
+- ✔️ Secure Authentication – Log in using a unique username and PIN.
+- ✔️ Detailed Transaction History – View all past deposits and credits with clear indicators.
+- ✔️ Instant Fund Transfers – Transfer money quickly and securely to other accounts.
+- ✔️ Loan Processing – Request and receive loans based on eligibility.
+- ✔️ Account Management – Easily close your account if needed.
+- ✔️ Real-time Data Updates – Transactions and balance updates happen dynamically.
+- ✔️ User-friendly Interface – Simple and clean design for easy navigation.
